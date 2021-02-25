@@ -4,11 +4,11 @@
   margin-top: 30px;
 }
 
-#why {
+.why {
   text-align: center;
 }
 
-#why .row img {
+.why .row img {
   background-color: #428bca;
   border-radius: 50%;
   padding: 30px
@@ -23,11 +23,6 @@
 
 .container.grey {
   background-color: #f9f9f9;
-  margin-top: 20px;
-}
-
-.container.lightblue {
-  background-color: #f0ffff;
   margin-top: 20px;
 }
 
