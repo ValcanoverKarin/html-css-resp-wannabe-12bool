@@ -8,7 +8,7 @@
 /*DEBUG*/
 .debug .container {
     background-color:cadetblue;
-    height:200px;
+    /*height:200px;*/
 }
 
 .debug [class*="col-"] {
@@ -172,7 +172,7 @@
 
 .col-xs-5 {
     width: calc( ( 100% / 12 ) * 5 ) ;
-    }
+}
 
 .col-xs-6 {
     width: calc( ( 100% / 12 ) * 6 ) ;
@@ -193,6 +193,7 @@
 .col-xs-11 {
     width: calc( ( 100% / 12 ) * 11 ) ;
 } 
+
 .col-xs-12 {
     width: calc( ( 100% / 12 ) * 12 ) ;
 } 
@@ -273,6 +274,7 @@
 .col-md-4 {
     width: calc( ( 100% / 12 ) * 4 ) ;
 }
+
 .col-md-5 {
     width: calc( ( 100% / 12 ) * 5 ) ;
 }
@@ -386,7 +388,7 @@
     width: calc( ( 100% / 12 ) * 5 ) ;
 }
 
-.col-md-6 {
+.col-lg-6 {
     width: calc( ( 100% / 12 ) * 6 ) ;
 }
 
